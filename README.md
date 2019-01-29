@@ -5,6 +5,11 @@
 npm install
 ```
 
+### Run Server node and socket.io
+```
+npm run server
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
